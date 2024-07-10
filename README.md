@@ -1,6 +1,6 @@
 # Computer Vision Labs
 
-Laboratories of Computer Vision, Unipd course 2021/22.
+Laboratories of Computer Vision course, UniPD - DEI 2021/22.
 
 ### Lab 1 - Intro to OpenCV
 
